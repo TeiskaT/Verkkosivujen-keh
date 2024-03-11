@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(223, 223, 248);
+}
+
+header, footer{
+    background-color: rgb(20, 20, 73);
+    color: white;
+    padding: 1em;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    clear:left;
+}
+
+nav {
+    background-color: rgb(157, 157, 214);
+    padding: 1em;
+}
+#navmain a:hover {
+    color: red;
+    
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+nav li {
+    padding-bottom: 1em;
+}
+
+nav a{
+    text-decoration: none;
+}
+.navleft {
+    float: left;
+    width: 10%;
+    height: 300px;
+    background: rgb(138, 138, 183);
+    padding: 1em;
+
+}
+
+.wrapper{
+    display: flex;
+}
+
+.wrapper >div{
+    flex: 1;
+    text-align: center;
+}
+
+section{
+    float: left;
+    width: 65%;
+    height: 230px;
+    padding: 1em;
+    color: rgb(20, 20, 73);
+}
+
+aside{
+    float: right;
+    width: 25%;
+    height: 430px;
+    padding: 1em;
+    color: rgb(20, 20, 73);
+
+}
+
+article {
+    float: left;
+    width: 65%;
+    padding: 1em;
+    height: 230px;
+    color: rgb(20, 20, 73);
+    
+}
