@@ -1,0 +1,71 @@
+
+
+.Kameo{
+    font-weight: bolder;
+    font-size: large;
+}
+.player{
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 100px;
+    padding-left: 0px;
+}
+article{
+    text-align: center;
+    padding-top: 40px;
+    padding-right: 25%;
+    padding-bottom: 20px;
+    padding-left: 25%;
+    font-family: optima;
+    font-size: large;
+}
+section{
+    float: left;
+    width: 65%;
+    padding-top: 140px;
+    padding-right: 30px;
+    padding-bottom: 100px;
+    padding-left: 80px;
+    font-family: optima;
+    font-size: large;
+}
+aside{
+    float: right;
+    width: 35%;
+    padding-top: 140px;
+    padding-right: 30px;
+    padding-bottom: 100px;
+    padding-left: 80px;
+}
+form{
+    padding-top: 10px;
+    padding-right: 40%;
+    padding-bottom: 100px;
+    padding-left: 40%;
+    text-align: center;
+    font-family: optima;
+    font-size: large;
+    border-width: 20px;
+}
+footer{
+    clear: left;
+    padding: 1em;
+    text-align: center;
+    opacity: 50%;
+    
+}
+
+.banner{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 1em;
+        opacity: 50%;
+}
+
+.Button {
+    color: rgb(7, 7, 7); font-size: 16px; line-height: 16px; padding: 8px; border-radius: 6px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(200, 224, 240) 0%, rgb(172, 213, 241) 70%, rgb(131, 197, 241) 100%); box-shadow: rgba(32, 32, 32, 0.55) 5px 5px 15px 5px; border: 2px solid rgb(0, 3, 4); display: inline-block;}
+    .Button:hover {
+    background: #58abe2; }
+    .Button:active {
+    background: #144E75; }
